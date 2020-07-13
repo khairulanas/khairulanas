@@ -4,7 +4,7 @@
 
 # Hi, I'm Khairul Anas 👋
 
-Full-Stack | Software engineer :robot:. (In progress)
+Full-Stack | Software engineer :robot:
 
 Lolinoid Researcher. :man_astronaut:
 
