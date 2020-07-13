@@ -10,7 +10,12 @@ Lolinoid Researcher. :man_astronaut:
 
 ## About me 
 
-:brain: Mystical Logic | :alien: Multidimentional Existence | :money_with_wings: Afterlife Economic
+:brain: Mystical Logic | 
+
+:alien: Multidimentional Existence | 
+
+:money_with_wings: Afterlife Economic |
+
 
 - :earth_asia: I'm from Madura - Indonesia
 - :video_game: I like to play video games
