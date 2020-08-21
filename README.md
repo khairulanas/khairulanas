@@ -14,7 +14,7 @@ Lolinoid Researcher. :man_astronaut:
 
 :alien: Multidimentional Existence | 
 
-:money_with_wings: Afterlife Economic |
+:money_with_wings: Afterlife Bussiness |
 
 
 - :earth_asia: I'm from Madura - Indonesia
