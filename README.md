@@ -1,5 +1,5 @@
 
-<img align="right" width="400" src="https://loli.my.id/thumb-loop.gif">
+<img align="right" width="400" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/pngbarn.png">
 
 
 # Hi, I'm Khairul Anas 👋
