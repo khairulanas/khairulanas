@@ -19,7 +19,7 @@ Lolinoid Researcher. :man_astronaut:
 
 - :earth_asia: I'm from Madura - Indonesia
 - :video_game: I like to play video games
-- :girl: I love Loli kawaii
+- :girl: I love Kato Megumi
 
 
 ## Social media :mailbox_with_no_mail:
