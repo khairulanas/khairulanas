@@ -12,7 +12,7 @@ Lolinoid Researcher. :man_astronaut:
 
 :brain: Mystical Logic | 
 
-:alien: Multidimentional Existence | 
+:alien: Multidimensional Existence | 
 
 :money_with_wings: Afterlife Capitalist |
 
