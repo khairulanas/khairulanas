@@ -2,7 +2,7 @@
 <img align="right" width="400" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/pngbarn.png">
 
 
-# Hi, iam a ex-Alien 👋
+# Hi, I'am an ex-Alien 👋
 
 Bit-Stack | Software engineer :robot:
 
