@@ -1,5 +1,5 @@
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/pngbarn.png">
+<img align="right" width="400" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/ikato.png">
 
 
 # Hi, Universe 👋
