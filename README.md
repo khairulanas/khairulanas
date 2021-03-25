@@ -1,5 +1,5 @@
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/ikato.png">
+<img display="float" align="right" width="300" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/ikato.png">
 
 ## About me 
 
