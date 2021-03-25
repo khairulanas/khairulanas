@@ -1,13 +1,6 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/ikato.png">
 
-
-# Hi,👋
-
-Bit-Stack | Software engineer :robot:
-
-Lolinoid Researcher. :man_astronaut:
-
 ## About me 
 
 :brain: Mystical Logic | 
