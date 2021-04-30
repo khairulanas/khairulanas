@@ -24,7 +24,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulanas&show_icons=true&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairulanas&layout=compact&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
