@@ -10,8 +10,8 @@
 :money_with_wings: Afterlife Capitalist |
 
 
-- :earth_asia: I'm from Madura - Indonesia
-- 🎯 I write clean code
+- :earth_asia: From Madura - Indonesia
+- 🎯 write clean code
 - 😍 I love Kato Megumi
 
 
