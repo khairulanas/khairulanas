@@ -11,8 +11,8 @@
 
 
 - :earth_asia: I'm from Madura - Indonesia
-- :video_game: I like to play video games
-- :girl: I love Kato Megumi
+- 🎯 I write clean code
+- 😍 I love Kato Megumi
 
 
 ## Social media :mailbox_with_no_mail:
