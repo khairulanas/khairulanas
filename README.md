@@ -11,7 +11,7 @@
 
 
 - :earth_asia: From Madura - Indonesia
-- 🎯 write clean code
+- 🎯 improve clean code
 - 😍 I love Kato Megumi
 
 
