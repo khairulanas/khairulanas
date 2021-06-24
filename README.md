@@ -3,11 +3,7 @@
 
 ## About me 
 
-:brain: Mystical Logic | 
-
-:alien: Multidimensional Existence | 
-
-:money_with_wings: Afterlife Capitalist |
+Mystical Logic | Multidimensional Existence | Afterlife Capitalist
 
 
 - :earth_asia: Indonesia
