@@ -6,7 +6,6 @@
 Mystical Logic | Multidimensional Existence | Afterlife Capitalist
 
 
-- :earth_asia: Indonesia
 - 🎯 improve clean code
 - 😍 I love Kato Megumi
 
