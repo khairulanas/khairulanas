@@ -1,7 +1,7 @@
 
 <img display="float" align="right" width="300" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/sinobu.png">
 
-## Ka~ka 
+## Ka~ ka~
 
 Mystical Logic | Multidimensional Existence | Afterlife Capitalist
 
