@@ -6,7 +6,7 @@
 Mystical Logic | Multidimensional Existence | Afterlife Capitalist
 
 
-- 🎯 improve clean code
+- 🎯 Dart on Flutter
 - 😍 I love Kato Megumi
 
 
