@@ -6,7 +6,7 @@
 Magical Mode | Multidimensional Existence | Afterlife Capitalist
 
 
-- 🎯 Dart on Flutter
+- 🎯 Fluttering dart
 - 😍 I love Kato Megumi
 
 
