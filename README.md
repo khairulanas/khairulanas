@@ -3,7 +3,7 @@
 
 ## Ka~ ka~
 
-Mystical Logic | Multidimensional Existence | Afterlife Capitalist
+Magical Mode | Multidimensional Existence | Afterlife Capitalist
 
 
 - 🎯 Dart on Flutter
