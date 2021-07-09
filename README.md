@@ -18,6 +18,9 @@ Magical Mode | Multidimensional Existence | Afterlife Capitalist
 [![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.reddit.com/user/byneet)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulanas&show_icons=true&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
