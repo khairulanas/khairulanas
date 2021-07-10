@@ -19,6 +19,8 @@ Magical Mode | Multidimensional Existence | Afterlife Capitalist
 
 <!--START_SECTION:waka-->
 ```text
+Week: 03 July, 2021 - 09 July, 2021
+
 Dart   2 hrs 16 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.17 % 
 ```
 <!--END_SECTION:waka-->
