@@ -7,6 +7,7 @@ Magical Mode | Multidimensional Existence | Afterlife Capitalist
 
 
 - 🎯 working on flutter app development
+- 🦄 Open for collaboration
 - 🐱‍👤 Coffee nin nin
 
 
