@@ -6,8 +6,8 @@
 Magical Mode | Multidimensional Existence | Afterlife Capitalist
 
 
-- 🎯 Fluttering dart
-- 😍 I love Kato Megumi
+- 🎯 working on flutter app development
+- 🐱‍👤 Coffee nin nin
 
 
 ## Social media :mailbox_with_no_mail:
