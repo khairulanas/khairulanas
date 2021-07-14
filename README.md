@@ -17,6 +17,7 @@ Magical Mode | Multidimensional Existence | Afterlife Capitalist
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-hmmsquare&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/magical.bits.with.extra.kyun)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/byneet/)
 [![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.reddit.com/user/byneet)
+| <img src="https://komarev.com/ghpvc/?username=khairulanas&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" />
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulanas&show_icons=true&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,7 +31,7 @@ Markdown   2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 <!--END_SECTION:waka-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khairulanas&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+
 
 
 ---
