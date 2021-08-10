@@ -6,9 +6,10 @@
 Magical Mode | Multidimensional Existence | Afterlife Capitalist
 
 
-- 🎯 Working on flutter
-- 🦄 Open for collaboration
-- 🐱‍👤 Coffee nin nin
+- 🎯 Working on flutter.
+- 🦄 Learning NodeJS and clean code.
+- 🦉 Ask Me anything about flutter, UI/UX or Anime.
+- 👽 Do you believe Alien exist?
 
 
 ## Social media :mailbox_with_no_mail:
