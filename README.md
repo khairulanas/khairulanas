@@ -2,7 +2,7 @@
 
 ## Ka~ ka~
 
-Magical Mode | Multidimensional Existence | Afterlife Capitalist
+Platonism | Multidimensional Existence | Afterlife Capitalist
 
 
 - 🎯 Working on flutter.
