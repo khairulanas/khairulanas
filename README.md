@@ -35,6 +35,5 @@ Other    3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 
-<img width="calc(100% - 300px)" src="https://cdn.staticneo.com/mg/2012/10/aut1210_display.jpg">
 
 ---
