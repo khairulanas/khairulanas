@@ -1,6 +1,6 @@
 <img display="float" align="right" width="300" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/kikuchi.png">
 
-## Ka~ ka~
+## Fu~ Fu~
 
 Water blender | Multidimensional Existence | Afterlife Capitalist
 
