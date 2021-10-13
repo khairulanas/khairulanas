@@ -2,7 +2,7 @@
 
 ## Ka~ ka~
 
-Platonism | Multidimensional Existence | Afterlife Capitalist
+Water blender | Multidimensional Existence | Afterlife Capitalist
 
 
 - 🎯 Working on flutter.
