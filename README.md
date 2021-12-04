@@ -8,7 +8,7 @@ Sleeping | Multidimensional Existence | Afterlife Capitalist
 - 🎯 Working on flutter.
 - 🦄 Learning NodeJS, UI/UX and clean code.
 - 🦉 Ask Me anything about flutter, mobile legend or Anime.
-- 👽 Universtrovert
+- 👽 Do you believe Alien exist ?
 
 
 ## Social media :mailbox_with_no_mail:
