@@ -6,7 +6,7 @@ Virtualized | Multidimensional Existence | Afterlife Capitalist
 
 
 - 🎯 Working on flutter.
-- 🦄 Learning NodeJS, UI/UX and clean code.
+- 🦄 Learning Cloud, UI/UX and clean code.
 - 🦉 Ask Me anything about flutter, mobile legend or Anime.
 - 👽 Do you believe Alien exist ?
 
