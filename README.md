@@ -2,7 +2,7 @@
 
 ## Fuu~ Fuu~
 
-Longlife observer | Multidimensional Existence | Afterlife Capitalist
+Longlife debugger | Multidimensional Existence | Afterlife Capitalist
 
 
 - 🎯 Working on flutter.
