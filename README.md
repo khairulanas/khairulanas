@@ -2,7 +2,7 @@
 
 ## Fuu~ Fuu~
 
-Virtualized | Multidimensional Existence | Afterlife Capitalist
+Longlife learner | Multidimensional Existence | Afterlife Capitalist
 
 
 - 🎯 Working on flutter.
