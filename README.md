@@ -24,7 +24,7 @@ Longlife debugger | Multidimensional Existence | Afterlife Capitalist
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2022 - 12 February, 2022
+Week: 07 February, 2022 - 13 February, 2022
 
 Dart       7 hrs 11 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀   85.14 % 
 YAML       46 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.28 % 
