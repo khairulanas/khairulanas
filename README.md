@@ -1,4 +1,4 @@
-<img display="float" align="right" width="420" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/Kuroneko456.png">
+<img display="float" align="right" width="400" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/Kuroneko456.png">
 
 ## Fuu~ Fuu~
 
