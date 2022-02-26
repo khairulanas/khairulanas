@@ -1,4 +1,4 @@
-<img display="float" align="right" width="350" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/Kuroneko456.png">
+<img display="float" align="right" width="300" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/Kuroneko456.png">
 
 ## Fuu~ Fuu~
 
@@ -20,18 +20,6 @@ Longlife debugger | Multidimensional Existence | Afterlife Capitalist
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulanas&show_icons=true&theme=omni&hide_border=true)
-
-<!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
-
-Dart         5 hrs 29 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.07 % 
-HTML         3 hrs 34 mins   ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.05 % 
-CSS          1 hr 46 mins    ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.92 % 
-JavaScript   1 hr 4 mins     ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.42 % 
-Groovy       20 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.71 % 
-```
-<!--END_SECTION:waka-->
 
 ---
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
