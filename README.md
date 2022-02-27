@@ -1,6 +1,6 @@
 <img display="float" align="right" width="300" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/chibineko.png">
 
-## miaw~ miaw~
+## Fuu~ Fuuw~
 
 Longlife debugger | Multidimensional Existence | Afterlife Capitalist
 
