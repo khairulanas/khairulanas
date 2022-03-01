@@ -1,4 +1,4 @@
-<img display="float" align="right" width="300" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/chibineko.png">
+<img display="float" align="right" width="350" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/shironekopng.png">
 
 <h1 align="left">Yahallo~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="yahallo"></h1>
 
@@ -19,9 +19,6 @@ Longlife debugger | Multidimensional Existence | Afterlife Capitalist
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulanas&show_icons=true&theme=omni&hide_border=true)
-
----
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -35,5 +32,8 @@ Longlife debugger | Multidimensional Existence | Afterlife Capitalist
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6883139486504114990)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/72l3ieh3dewtwklyizovldxu0)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulanas&show_icons=true&theme=omni&hide_border=true)
 
 ---
