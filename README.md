@@ -1,4 +1,4 @@
-<img display="float" align="right" width="350" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/shironekopng.png">
+<img display="float" align="right" width="400" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/shironekopng.png">
 
 <h1 align="left">Yahallo~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="yahallo"></h1>
 
@@ -34,6 +34,6 @@ Longlife debugger | Multidimensional Existence | Afterlife Capitalist
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulanas&show_icons=true&theme=omni&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulanas&show_icons=false&theme=omni&hide_border=true)
 
 ---
