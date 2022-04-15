@@ -6,7 +6,8 @@ Longlife debugger | Multidimensional Existence | Afterlife Capitalist
 
 
 - 🎯 Working on flutter.
-- 🦄 Learning Cloud, UI/UX and clean code.
+- 🦄 Learning ML and blockchain.
+- 🎮 Playing Mobile Legend and Genshin impact.
 - 🦉 Ask Me anything about flutter, mobile legend or Anime.
 - 👽 Do you believe Alien exist ?
 
