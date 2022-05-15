@@ -5,10 +5,10 @@
 Longlife debugger | Multidimensional Existence | Afterlife Capitalist
 
 
-- 🎯 Working on flutter.
-- 🦄 Learning ML and blockchain.
+- 🎯 Working for world peace.
+- 🦄 Learning ML.
 - 🎮 Playing Mobile Legend and Genshin impact.
-- 🦉 Ask Me anything about flutter, mobile legend or Anime.
+- 🦉 Ask Me anything except women.
 - 👽 Do you believe Alien exist ?
 
 
