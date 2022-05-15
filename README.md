@@ -6,7 +6,7 @@ Lifetime debugger | Multidimensional Existence | Afterlife Capitalist
 
 
 - 🎯 Working for world peace.
-- 🦄 Learning ML.
+- 🦄 Learning machine learning.
 - 🎮 Playing Mobile Legend and Genshin impact.
 - 🦉 Ask Me anything except women.
 - 👽 Do you believe Alien exist ?
