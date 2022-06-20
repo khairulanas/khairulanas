@@ -7,8 +7,8 @@ Lifetime debugger | Multidimensional Existence | Afterlife Capitalist
 
 - 🎯 Working for world peace.
 - 🦄 Learning machine learning.
-- 🎮 Playing Mobile Legend just for fun.
-- 🦉 Ask Me anything except women(real).
+- 🎮 Playing Love Nikki-Dress Up Queen 💕.
+- 🦉 Ask Me anything except women.
 - 👽 Do you believe Alien exist ?
 
 
