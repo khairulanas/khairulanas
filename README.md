@@ -6,7 +6,7 @@ Lifetime debugger | Multidimensional Existence | Afterlife Capitalist
 
 
 - 🎯 Working for world peace.
-- 🦄 Learning machine learning.
+- 🦄 Learning how to fly.
 - 🎮 Playing adventure game.
 - 🦉 Ask Me anything except women.
 - 👽 Do you believe Alien exist ?
