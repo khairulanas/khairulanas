@@ -17,6 +17,7 @@ Lifetime debugger | Multidimensional Existence | Afterlife Capitalist
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/khairulanas)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-hmmsquare&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/sanaight/)
 | <img src="https://komarev.com/ghpvc/?username=khairulanas&label=Profile%20views&color=0e75b6&style=flat" alt="khairulanas" />
+[![wakatime](https://wakatime.com/badge/user/b9b14a45-eb46-4c89-b1cc-536d0d782d9f.svg)](https://wakatime.com/@b9b14a45-eb46-4c89-b1cc-536d0d782d9f)
 
 ---
 
