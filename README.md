@@ -2,7 +2,7 @@
 
 <h1 align="left">Yahallo~ 👋</h1>
 
-Lifetime debugger | Multidimensional Existence | Afterlife Capitalist
+Multidimensional Existence | Afterlife Capitalist | Lifetime debugger
 
 
 - 🎯 Working for world peace.
