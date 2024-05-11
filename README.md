@@ -2,14 +2,14 @@
 
 <h1 align="left">Yahallo~ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-Multidimension Existence | Afterlife Capitalist | Lifetime debugger
+Multidimension Existence | Afterlife Capitalist
 
 
-- 🎯 Working for world peace.
-- 🦄 Learning how to fly.
-- 🎮 Playing adventure game.
-- 🦉 Ask Me anything except women.
-- 👽 Do you believe Alien exist ?
+- 🎯 I'm Working for world peace.
+- 🦄 Currently Learning front-end & mobile development.
+- 🎮 I like to play adventure game.
+- 🦉 Feel free to ask me on social media and email.
+- 👽 Sometimes, I feel like an alien in this reality ?
 
 
 ## Social media :mailbox_with_no_mail:
