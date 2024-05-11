@@ -1,6 +1,6 @@
 <img display="float" align="right" width="400" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/shironekopng.png">
 
-<h1 align="left">Yahallo~ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h3 align="left">Yahallo~ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 Multidimension Existence | Afterlife Capitalist
 
@@ -11,8 +11,8 @@ Multidimension Existence | Afterlife Capitalist
 - 🦉 Feel free to ask me on social media and email.
 - 👽 Sometimes, I feel like an alien in this reality ?
 
-
-## Social media :mailbox_with_no_mail:
+---
+### Social media :mailbox_with_no_mail:
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/khairulanas)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-hmmsquare&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/sanaight/)
