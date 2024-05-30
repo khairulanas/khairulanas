@@ -8,7 +8,7 @@ Multidimension Existence | Afterlife Capitalist
 - 🎯 I'm Working for world peace.
 - 🦄 Currently Learning front-end & mobile development.
 - 🎮 I like to play adventure game.
-- 🦉 Feel free to "Hi!" me on social media and email.
+- 🐺 I am a ~single~ lone wolf. :v
 - 👽 Sometimes, I feel like an alien in this reality ?
 
 ---
