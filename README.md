@@ -3,7 +3,9 @@
 
 I'm Ka,
 
-I deeply passionate about Flutter, with a solid background in front-end and mobile development. As a dedicated programmer, I am committed to creating exceptional applications using Dart and JavaScript. My enthusiasm for exploring new technologies and advancements in mobile development drives me to constantly improve my skills. Additionally, I have a love for anime and games, which often inspire my creative projects. I aim to make meaningful contributions to this dynamic field and enjoy engaging in insightful discussions and collaborations to achieve success in both my professional and personal endeavors. ~cgpt
+  I deeply passionate about Flutter, with a solid background in front-end and mobile development. As a dedicated programmer, I am committed to creating exceptional applications using Dart and JavaScript. My enthusiasm for exploring new technologies and advancements in mobile development drives me to constantly improve my skills. 
+
+  Additionally, I have a love for anime and games, which often inspire my creative projects. I aim to make meaningful contributions to this dynamic field and enjoy engaging in insightful discussions and collaborations to achieve success in both my professional and personal endeavors. ~cgpt
 
 
 ---
