@@ -1,4 +1,4 @@
-<img display="float" align="right" width="400" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/anime-dance.gif">
+<img display="float" align="right" width="400" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/shigure.gif">
 <h3 align="left">Miaww~ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
 
 Jika benar menjadi kebenaran,
